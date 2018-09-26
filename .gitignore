@@ -1,1 +1,9 @@
+#file with aws key variables defined
 .aws
+
+#module directory
+.terraform
+
+#compiled files
+terraform.tfstate.backup
+terraform.tfstate
