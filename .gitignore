@@ -7,3 +7,6 @@
 #compiled files
 terraform.tfstate.backup
 terraform.tfstate
+
+#public key for ssh
+myec2key.pub
